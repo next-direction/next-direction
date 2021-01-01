@@ -30,10 +30,10 @@ class Experience {
   public $otherStack = ['ExpressJS', 'MongoDB', 'Redis', 'NuxtJS', 'TailwindCSS'];
   
   public $furtherKnowledge = [
-    'concepts'  => 'Agile scrum process, responsive design, basics of accessibility and technical SEO',
+    'concepts'  => 'Agile scrum process, responsive design, basics of accessibility and technical SEO, design systems',
     'libraries' => 'React, Svelte, D3.js',
     'cms'       => 'Directus CMS, basics of Wordpress and Typo3',
-    'devOps'    => 'Docker, Dokku, basics of Kubernetes and AWS',
+    'devOps'    => 'Docker, Dokku, basics of Kubernetes and AWS, CI/CD with GitLab',
   ];
 }
 ```
@@ -49,6 +49,10 @@ Usually I deploy my private projects on a LAMP or Dokku environment, depending o
 * I made my own little version of StackOverflow using Directus CMS and Nuxt: [CC - NextDirection](https://cc.next-direction.de)
 * I love learning and reading about new things every day through online courses, videos or simply project documentations
 
+#### Who doesn't love badges
+
+![Stack Exchange reputation](https://img.shields.io/stackexchange/stackoverflow/r/4239703?color=green&label=StackOverflow)<br>
+![Twitter Follow](https://img.shields.io/twitter/follow/NextDirectionDE?style=social)<br>
 ![GitHub last commit](https://img.shields.io/github/last-commit/next-direction/next-direction?label=last%20update&style=social)
 
 <!--
