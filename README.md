@@ -14,7 +14,10 @@ const aboutMe = {
 ```php
 class Experience {
 
-  public $technologies = ['PHP', 'JavaScript', 'HTML', 'CSS', 'SQL', 'GIT', 'Linux', 'Windows', 'WSL2', 'PHPStorm'];
+  public $technologies = [
+     'PHP', 'JavaScript', 'HTML', 'CSS', 'SQL', 'MarkDown',
+     'GIT', 'Linux', 'Windows', 'WSL2', 'PHPStorm'
+  ];
   
   public $languages = [
     'german'  => 'Mother tongue',
@@ -27,7 +30,7 @@ class Experience {
   public $otherStack = ['ExpressJS', 'MongoDB', 'Redis', 'NuxtJS', 'TailwindCSS'];
   
   public $furtherKnowledge = [
-    'concepts'  => 'Responsive design, basics of accessibility and technical SEO',
+    'concepts'  => 'Agile scrum process, responsive design, basics of accessibility and technical SEO',
     'libraries' => 'React, Svelte, D3.js',
     'cms'       => 'Directus CMS, basics of Wordpress and Typo3',
     'devOps'    => 'Docker, Dokku, basics of Kubernetes and AWS',
@@ -36,6 +39,8 @@ class Experience {
 ```
 
 I'm currently working on a private project with my `$otherStack` for visualizing data with D3.js. The favorite part of this stack is that it is kind of stateless through ExpressJS session handling with Redis. With this it could easily be deployed to Amazon AWS with full automatic scalability.
+
+Usually I deploy my private projects on a LAMP or Dokku environment, depending on the stack and technologies I'm using.
 
 #### Random other facts
 
