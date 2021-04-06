@@ -51,7 +51,7 @@ Usually I deploy my private projects on a LAMP or Dokku environment, depending o
 
 #### Who doesn't love badges
 
-![Stack Exchange reputation](https://img.shields.io/stackexchange/stackoverflow/r/4239703?color=green&label=StackOverflow)<br>
+![Stack Exchange reputation](https://img.shields.io/badge/StackOverflow-350%2B-green)<br>
 ![Twitter Follow](https://img.shields.io/twitter/follow/NextDirectionDE?style=social)<br>
 ![GitHub last commit](https://img.shields.io/github/last-commit/next-direction/next-direction?label=last%20update&style=social)
 
